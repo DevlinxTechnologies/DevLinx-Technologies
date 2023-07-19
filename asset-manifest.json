@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DevLinx-Technologies/static/css/main.460012d5.css",
+    "main.js": "/DevLinx-Technologies/static/js/main.0c9aeffb.js",
+    "static/js/787.587eed73.chunk.js": "/DevLinx-Technologies/static/js/787.587eed73.chunk.js",
+    "index.html": "/DevLinx-Technologies/index.html",
+    "main.460012d5.css.map": "/DevLinx-Technologies/static/css/main.460012d5.css.map",
+    "main.0c9aeffb.js.map": "/DevLinx-Technologies/static/js/main.0c9aeffb.js.map",
+    "787.587eed73.chunk.js.map": "/DevLinx-Technologies/static/js/787.587eed73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.460012d5.css",
+    "static/js/main.0c9aeffb.js"
+  ]
+}
